@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804851758144",
+    "firebase_url": "https://api-firebase-dlib.firebaseio.com",
+    "project_id": "api-firebase-dlib",
+    "storage_bucket": "api-firebase-dlib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804851758144:android:495c252ae8f2b3059b9ba5",
+        "android_client_info": {
+          "package_name": "com.fatec.chamada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804851758144-160g5spifrfd7ibb7r3r8r7n0690g8o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgPieZaQFYn9MyTv_IMCJToQwnxibGL1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804851758144-160g5spifrfd7ibb7r3r8r7n0690g8o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
