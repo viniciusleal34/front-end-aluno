@@ -1,5 +1,5 @@
 # front-end-aluno
-Aplicação desenvolvida em React native para realizar o envio das imagens de alunos ao banco de dados firebase
+Aplicação desenvolvida em React native para realizar o envio das imagens dos alunos ao banco de dados firebase, para contabilização de presença
 
 ### Requisitos(Windows)
 
